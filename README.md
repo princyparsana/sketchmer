@@ -1,2 +1,2 @@
 # sketchmer
-k-mer counting tool
+k-mer counting tool (online approach)
